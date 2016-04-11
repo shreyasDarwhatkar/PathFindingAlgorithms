@@ -1,0 +1,17 @@
+*.class
+build/
+.gradle
+
+# Mac
+.DS_Store
+
+# IntelliJ project file
+.idea
+*.iml
+
+# Eclipse generated files
+.classpath
+.project
+.settings/
+tmp/
+bin/
